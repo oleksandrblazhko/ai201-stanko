@@ -1,2 +1,2 @@
 # Деталізація матеріальних потреб!
-[Stanko drawio](https://user-images.githubusercontent.com/112476246/192809834-0c0c003a-998f-4954-b6af-a7b6db718909.png)
+![Stanko](https://user-images.githubusercontent.com/112476246/192811975-f8f43904-104e-4912-a9e3-540145ccdea8.jpg)
