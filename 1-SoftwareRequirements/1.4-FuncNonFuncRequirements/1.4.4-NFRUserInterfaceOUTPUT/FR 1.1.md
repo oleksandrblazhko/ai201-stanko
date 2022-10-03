@@ -1,2 +1,2 @@
 # FR 1.1 = NFR1.6
-[FR 1.1](https://raw.githubusercontent.com/oleksandrblazhko/ai201-stanko/ai201-stanko_with_laboratory_work_3/1-SoftwareRequirements/1.4-FuncNonFuncRequirements/1.4.4-NFRUserInterfaceOUTPUT/FR%201.1.jpg)
+![FR 1 1](https://user-images.githubusercontent.com/112476246/193602594-9d82ca40-ccb6-449f-8bc6-e54d1b7c65d0.jpg)
