@@ -1,2 +1,2 @@
 ### UML-діаграма програмних класів
-![Stanko_Lab6](https://user-images.githubusercontent.com/112476246/196175135-08639663-5294-40dc-ada9-e34733c89eb4.jpg)
+![Stanko_Lab6 (1)](https://user-images.githubusercontent.com/112476246/196175444-0f714e89-af17-4e0d-af9a-347ddd07696f.jpg)
