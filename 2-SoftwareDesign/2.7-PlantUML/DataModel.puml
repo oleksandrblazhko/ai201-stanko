@@ -1,0 +1,39 @@
+@startuml
+title Relation Schema
+hide circle
+entity "Lector" as lec {
+  (PK)lector_id
+  --
+  education
+  work_experience
+  (FK)recommendation_id
+  (FK)data_id
+  (FK)user_id
+}
+
+entity "Recommendation" as recom {
+  (PK)recommendation_id
+  --
+  r_course
+  (FK)data_id
+}
+
+entity "Data" as dat {
+  (PK)data_id
+  --
+  type_of_architecture_course
+}
+
+entity "User" as us {
+  (PK)user_id
+  --
+  surname
+  name
+  email_adress
+}
+
+recom --{ lec
+dat --{ recom
+lec }-- us
+
+@enduml
