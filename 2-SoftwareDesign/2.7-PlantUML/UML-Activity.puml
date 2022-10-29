@@ -1,0 +1,13 @@
+@startuml
+title Conditional - Activity Diagram 
+
+start
+:The program analyzes data of order;
+if (Are data correct?) then (Yes)
+  :Results are correct!;
+else (No)
+  :Your data are incorrect!;
+endif
+stop
+
+@enduml
