@@ -1,0 +1,13 @@
+@startuml
+title Classes Diagram
+
+Class User
+Class Lector
+Class Data
+Class Recommendation
+
+Lector <|-- User
+Lector"1" -up-> "+"Recommendation : give
+Lector"1" -up-> "+"Data : analyze
+Recommendation"+" o-- "1"Data
+@enduml
